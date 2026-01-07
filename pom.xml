@@ -27,5 +27,92 @@
       <artifactId>kafka-streams</artifactId>
       <version>7.9.2-ccs</version>
     </dependency>
+ <dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>4.13.1</version>
+    <scope>test</scope>
+</dependency>
+
+          <dependency>
+    <groupId>org.scalatest</groupId>
+    <artifactId>scalatest_3</artifactId>
+    <version>3.2.13</version>
+    <scope>test</scope>
+</dependency>
+
+          <dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-test</artifactId>
+    <version>3.4.1</version>
+    <scope>test</scope>
+</dependency>
+
+          <dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>6.9.6</version>
+    <scope>test</scope>
+</dependency>
+
+          <dependency>
+    <groupId>org.hamcrest</groupId>
+    <artifactId>hamcrest-all</artifactId>
+    <version>1.0</version>
+    <scope>test</scope>
+</dependency>
+
+          <dependency>
+    <groupId>org.hamcrest</groupId>
+    <artifactId>hamcrest</artifactId>
+    <version>2.1</version>
+    <scope>test</scope>
+</dependency>
+
+          <dependency>
+    <groupId>org.junit.jupiter</groupId>
+    <artifactId>junit-jupiter-params</artifactId>
+    <version>5.5.1</version>
+    <scope>test</scope>
+</dependency>
+
+          <dependency>
+    <groupId>org.junit.vintage</groupId>
+    <artifactId>junit-vintage-engine</artifactId>
+    <version>5.10.0</version>
+    <scope>test</scope>
+</dependency>
+
+          <dependency>
+    <groupId>io.rest-assured</groupId>
+    <artifactId>rest-assured</artifactId>
+    <version>4.0.0</version>
+    <scope>test</scope>
+</dependency>
+
+<dependency>
+    <groupId>org.spockframework</groupId>
+    <artifactId>spock-core</artifactId>
+    <version>2.4-M6-groovy-3.0</version>
+    <scope>test</scope>
+</dependency>
+
+          <dependency>
+    <groupId>org.testcontainers</groupId>
+    <artifactId>junit-jupiter</artifactId>
+    <version>1.17.3</version>
+    <scope>test</scope>
+</dependency>
+
+          <!-- https://mvnrepository.com/artifact/javax.servlet/servlet-api -->
+<dependency>
+    <groupId>javax.servlet</groupId>
+    <artifactId>servlet-api</artifactId>
+    <version>2.2</version>
+    <scope>provided</scope>
+</dependency>
+
+          
+          
   </dependencies>
 </project>
