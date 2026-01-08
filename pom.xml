@@ -47,6 +47,12 @@
     <artifactId>atomicfu</artifactId>
     <version>0.27.0</version>
 </dependency>
+    <!-- https://mvnrepository.com/artifact/com.twitter/util-core -->
+<dependency>
+    <groupId>com.twitter</groupId>
+    <artifactId>util-core_3</artifactId>
+    <version>22.12.0</version>
+</dependency>
     <!-- https://mvnrepository.com/artifact/commons-dbcp/commons-dbcp -->
 <dependency>
     <groupId>commons-dbcp</groupId>
