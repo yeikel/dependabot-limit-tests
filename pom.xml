@@ -146,7 +146,7 @@
         <dependency>
             <groupId>org.wso2.carbon.identity.framework</groupId>
             <artifactId>org.wso2.carbon.claim.mgt</artifactId>
-            <version>7.8.651</version>
+            <version>7.8.653</version>
         </dependency><!-- https://mvnrepository.com/artifact/io.github.l2hyunwoo/compose-camera-core-iosx64 -->
         <dependency>
             <groupId>io.github.l2hyunwoo</groupId>
