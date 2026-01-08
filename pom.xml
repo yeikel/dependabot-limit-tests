@@ -12,7 +12,13 @@
   <dependencies>
 <!-- https://mvnrepository.com/artifact/net.plsar/plsar -->
 <!-- https://mvnrepository.com/artifact/org.grouplens.grapht/grapht -->
+<!-- https://mvnrepository.com/artifact/org.jsweet.candies/jsweet-core -->
 <dependency>
+    <groupId>org.jsweet.candies</groupId>
+    <artifactId>jsweet-core</artifactId>
+    <version>1.1.0-20160525</version>
+</dependency>
+    <dependency>
     <groupId>org.grouplens.grapht</groupId>
     <artifactId>grapht</artifactId>
     <version>0.9.1</version>
