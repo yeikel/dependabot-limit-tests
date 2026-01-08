@@ -57,7 +57,7 @@
         <dependency>
             <groupId>org.mvnpm.at.babel</groupId>
             <artifactId>runtime</artifactId>
-            <version>7.28.2</version>
+            <version>7.28.4</version>
         </dependency><!-- https://mvnrepository.com/artifact/org.mvnpm/postcss -->
         <dependency>
             <groupId>org.mvnpm</groupId>
