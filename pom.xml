@@ -26,7 +26,6 @@
             <version>2.1.0</version>
             <type>pom</type>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/io.github.cobayo/yunas-framework -->
         <dependency>
             <groupId>io.github.cobayo</groupId>
             <artifactId>yunas-framework</artifactId>
