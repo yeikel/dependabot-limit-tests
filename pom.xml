@@ -444,7 +444,7 @@
         <dependency>
             <groupId>org.scala-js</groupId>
             <artifactId>scalajs-library_2.13</artifactId>
-            <version>1.14.0</version>
+            <version>1.20.2</version>
         </dependency>
         <dependency>
             <groupId>com.google.auto.value</groupId>
