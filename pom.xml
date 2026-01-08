@@ -10,9 +10,6 @@
   <version>1.0-SNAPSHOT</version>
   <name>demos</name>
   <dependencies>
-<!-- https://mvnrepository.com/artifact/net.plsar/plsar -->
-<!-- https://mvnrepository.com/artifact/org.grouplens.grapht/grapht -->
-<!-- https://mvnrepository.com/artifact/org.jsweet.candies/jsweet-core -->
 <dependency>
     <groupId>org.jsweet.candies</groupId>
     <artifactId>jsweet-core</artifactId>
