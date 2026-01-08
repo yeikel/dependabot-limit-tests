@@ -93,7 +93,7 @@
         <dependency>
             <groupId>com.spotify</groupId>
             <artifactId>trickle</artifactId>
-            <version>0.6.1</version>
+            <version>0.6.2</version>
         </dependency><!-- https://mvnrepository.com/artifact/com.google.gwt/gwt-user -->
         <dependency>
             <groupId>com.google.gwt</groupId>
