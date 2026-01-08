@@ -19,6 +19,22 @@
     <version>0.8.2</version>
     <scope>test</scope>
 </dependency>
+    <!-- https://mvnrepository.com/artifact/clj-http/clj-http -->
+<dependency>
+    <groupId>clj-http</groupId>
+    <artifactId>clj-http</artifactId>
+    <version>3.12.4</version>
+</dependency><!-- https://mvnrepository.com/artifact/nz.ac.auckland.composite/composite-logging-jcl -->
+<dependency>
+    <groupId>nz.ac.auckland.composite</groupId>
+    <artifactId>composite-logging-jcl</artifactId>
+    <version>3.2</version>
+</dependency><!-- https://mvnrepository.com/artifact/io.github.q3769/jlf-tinylog -->
+<dependency>
+    <groupId>io.github.q3769</groupId>
+    <artifactId>jlf-tinylog</artifactId>
+    <version>20221014.0.0</version>
+</dependency>
     <!-- https://mvnrepository.com/artifact/org.mybatis.generator/mybatis-generator-core -->
 <dependency>
     <groupId>org.mybatis.generator</groupId>
