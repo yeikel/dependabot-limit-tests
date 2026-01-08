@@ -29,7 +29,7 @@
         <dependency>
             <groupId>io.github.cobayo</groupId>
             <artifactId>yunas-framework</artifactId>
-            <version>1.0.6</version>
+            <version>1.0.8</version>
         </dependency><!-- https://mvnrepository.com/artifact/ch.qos.logback.access/logback-access-common -->
         <dependency>
             <groupId>ch.qos.logback.access</groupId>
