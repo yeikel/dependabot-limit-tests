@@ -10,7 +10,25 @@
   <version>1.0-SNAPSHOT</version>
   <name>demos</name>
   <dependencies>
+<!-- https://mvnrepository.com/artifact/net.plsar/plsar -->
 <dependency>
+    <groupId>net.plsar</groupId>
+    <artifactId>plsar</artifactId>
+    <version>2.1.0</version>
+    <type>pom</type>
+</dependency>
+    <!-- https://mvnrepository.com/artifact/io.github.cobayo/yunas-framework -->
+<dependency>
+    <groupId>io.github.cobayo</groupId>
+    <artifactId>yunas-framework</artifactId>
+    <version>1.0.6</version>
+</dependency><!-- https://mvnrepository.com/artifact/ch.qos.logback.access/logback-access-common -->
+<dependency>
+    <groupId>ch.qos.logback.access</groupId>
+    <artifactId>logback-access-common</artifactId>
+    <version>2.0.4</version>
+</dependency>
+    <dependency>
     <groupId>org.apache.wicket</groupId>
     <artifactId>wicket-core</artifactId>
     <version>10.6.0</version>
