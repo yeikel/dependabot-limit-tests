@@ -103,7 +103,7 @@
         <dependency>
             <groupId>org.scalatra</groupId>
             <artifactId>scalatra_2.11</artifactId>
-            <version>2.4.0</version>
+            <version>2.7.1</version>
         </dependency><!-- https://mvnrepository.com/artifact/org.jooby/jooby -->
         <dependency>
             <groupId>org.jooby</groupId>
