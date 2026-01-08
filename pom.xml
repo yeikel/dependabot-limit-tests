@@ -124,7 +124,7 @@
         <dependency>
             <groupId>dev.zio</groupId>
             <artifactId>zio-http_3</artifactId>
-            <version>3.7.2</version>
+            <version>3.7.4</version>
         </dependency><!-- https://mvnrepository.com/artifact/org.apache.kafka/kafka -->
         <dependency>
             <groupId>org.apache.kafka</groupId>
