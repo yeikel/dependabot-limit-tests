@@ -108,7 +108,7 @@
         <dependency>
             <groupId>org.jooby</groupId>
             <artifactId>jooby</artifactId>
-            <version>1.6.7</version>
+            <version>1.6.9</version>
         </dependency><!-- https://mvnrepository.com/artifact/io.jooby/jooby -->
         <dependency>
             <groupId>net.sourceforge.stripes</groupId>
