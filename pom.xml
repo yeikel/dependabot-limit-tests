@@ -130,7 +130,7 @@
         <dependency>
             <groupId>org.apache.kafka</groupId>
             <artifactId>kafka_2.13</artifactId>
-            <version>4.1.0</version>
+            <version>4.1.1</version>
         </dependency><!-- https://mvnrepository.com/artifact/org.apache.kafka/kafka -->
         <dependency>
             <groupId>org.jmock</groupId>
