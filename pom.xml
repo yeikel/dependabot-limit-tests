@@ -13,7 +13,30 @@
     <!-- https://mvnrepository.com/artifact/org.webjars.bowergithub.polymer/polymer -->
 <!-- https://mvnrepository.com/artifact/org.tinylog/jul-tinylog -->
 <!-- https://mvnrepository.com/artifact/org.gmock/gmock -->
+<!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
 <dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-core</artifactId>
+    <version>7.0.0</version>
+</dependency>
+    <!-- https://mvnrepository.com/artifact/net.sourceforge.findbugs/annotations -->
+<dependency>
+    <groupId>net.sourceforge.findbugs</groupId>
+    <artifactId>annotations</artifactId>
+    <version>1.2.1</version>
+</dependency>
+    <!-- https://mvnrepository.com/artifact/com.google.code.findbugs/annotations -->
+<dependency>
+    <groupId>com.google.code.findbugs</groupId>
+    <artifactId>annotations</artifactId>
+    <version>3.0.0</version>
+</dependency><!-- https://mvnrepository.com/artifact/com.github.spotbugs/spotbugs-annotations -->
+<dependency>
+    <groupId>com.github.spotbugs</groupId>
+    <artifactId>spotbugs-annotations</artifactId>
+    <version>4.9.6</version>
+</dependency>
+    <dependency>
     <groupId>org.gmock</groupId>
     <artifactId>gmock</artifactId>
     <version>0.8.2</version>
