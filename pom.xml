@@ -39,7 +39,7 @@
         <dependency>
             <groupId>org.apache.wicket</groupId>
             <artifactId>wicket-core</artifactId>
-            <version>10.6.0</version>
+            <version>10.8.0</version>
         </dependency><!-- https://mvnrepository.com/artifact/org.webjars.bower/github-com-polymer-polymer -->
         <!-- https://mvnrepository.com/artifact/io.ktor/ktor-client-core -->
         <dependency>
