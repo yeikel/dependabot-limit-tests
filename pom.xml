@@ -15,7 +15,20 @@
     <artifactId>wicket-core</artifactId>
     <version>10.6.0</version>
 </dependency><!-- https://mvnrepository.com/artifact/org.webjars.bower/github-com-polymer-polymer -->
+<!-- https://mvnrepository.com/artifact/io.ktor/ktor-client-core -->
 <dependency>
+    <groupId>io.ktor</groupId>
+    <artifactId>ktor-client-core</artifactId>
+    <version>3.3.2</version>
+    <scope>runtime</scope>
+</dependency>
+    <!-- https://mvnrepository.com/artifact/org.apache.click/click -->
+<dependency>
+    <groupId>org.apache.click</groupId>
+    <artifactId>click</artifactId>
+    <version>2.2.0</version>
+</dependency>
+    <dependency>
     <groupId>org.webjars.bower</groupId>
     <artifactId>github-com-polymer-polymer</artifactId>
     <version>2.4.0</version>
