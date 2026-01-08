@@ -155,7 +155,7 @@
         <dependency>
             <groupId>org.grails</groupId>
             <artifactId>grails-web</artifactId>
-            <version>6.2.2</version>
+            <version>6.2.3</version>
         </dependency><!-- https://mvnrepository.com/artifact/org.apache.grails.data/grails-datastore-core -->
         <dependency>
             <groupId>org.apache.grails.data</groupId>
