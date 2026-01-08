@@ -287,7 +287,7 @@
         <dependency>
             <groupId>io.vertx</groupId>
             <artifactId>vertx-core</artifactId>
-            <version>5.0.3</version>
+            <version>5.0.6</version>
         </dependency><!-- https://mvnrepository.com/artifact/org.jetbrains.kotlinx/atomicfu -->
         <dependency>
             <groupId>org.jetbrains.kotlinx</groupId>
